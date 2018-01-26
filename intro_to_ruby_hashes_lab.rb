@@ -3,7 +3,9 @@ def new_hash
 end
 
 def actor
-
+	actors = {
+		name: "Dwayen The Rock Johnson"
+	}
 end
 
 def monopoly
