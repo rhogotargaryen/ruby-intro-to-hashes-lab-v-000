@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-	actors = {
+	actor = {
 		name: "Dwayen The Rock Johnson"
 	}
 end
